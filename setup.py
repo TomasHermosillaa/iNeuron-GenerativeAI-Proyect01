@@ -9,4 +9,3 @@ setup(
     install_requires=["openai", 'langchain', "streamlit", 'python-dotenv', 'PyPDF2'],
     packages=find_packages()
 )
-
